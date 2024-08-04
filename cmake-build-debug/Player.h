@@ -1,7 +1,3 @@
-//
-// Created by luis martinez on 8/3/24.
-//
-
 #ifndef FINAL_PROJECT__PLAYER_H
 #define FINAL_PROJECT__PLAYER_H
 

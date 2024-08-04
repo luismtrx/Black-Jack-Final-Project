@@ -4,6 +4,11 @@
 
 class Cards {
 
+public:
+
+
+private:
+
 };
 
 
