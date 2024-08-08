@@ -10,15 +10,16 @@ class Cards {
 
 public:
     //this is what the cards have suit face and number
+    Cards();
     Cards(string);
 
 
 
     // function for deck
 
-void deck();
+int deck();
 
-private:
+protected:
     string cardType;
 };
 
