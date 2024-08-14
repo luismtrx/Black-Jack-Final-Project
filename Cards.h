@@ -3,24 +3,29 @@
 #include <string>
 #include <iostream>
 #include <fstream>
+#include <vector>
 using namespace std;
 
 
 class Cards {
 
 public:
-    //this is what the cards have suit face and number
+    //cunstrutor that initializes the deck by loading cards
     Cards();
-    Cards(string);
+    Cards(vector<string> deck);
 
+    // function to shuffle the deck
+    void shuffleDeck();
 
+    //function to keep track of the cards
+    int cardsLeft() const;
 
-    // function for deck
-
-int deck();
+// function to deal the cards
+    string dealCard();
 
 protected:
-    string cardType;
+   vector<string> deck;
+    int CurrentCard;
 };
 
 

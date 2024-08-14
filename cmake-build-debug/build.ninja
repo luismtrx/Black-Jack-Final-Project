@@ -57,7 +57,7 @@ build CMakeFiles/Final_Project_.dir/main.cpp.o: CXX_COMPILER__Final_Project__uns
   TARGET_COMPILE_PDB = CMakeFiles/Final_Project_.dir/
   TARGET_PDB = Final_Project_.pdb
 
-build CMakeFiles/Final_Project_.dir/Cards.cpp.o: CXX_COMPILER__Final_Project__unscanned_Debug /Users/luismartinez/Desktop/Obeject$ Orianted$ Programming$ /code$ /Final_Project$ /cmake-build-debug/Cards.cpp || cmake_object_order_depends_target_Final_Project_
+build CMakeFiles/Final_Project_.dir/Cards.cpp.o: CXX_COMPILER__Final_Project__unscanned_Debug /Users/luismartinez/Desktop/Obeject$ Orianted$ Programming$ /code$ /Final_Project$ /Cards.cpp || cmake_object_order_depends_target_Final_Project_
   DEP_FILE = CMakeFiles/Final_Project_.dir/Cards.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/Final_Project_.dir
@@ -65,7 +65,7 @@ build CMakeFiles/Final_Project_.dir/Cards.cpp.o: CXX_COMPILER__Final_Project__un
   TARGET_COMPILE_PDB = CMakeFiles/Final_Project_.dir/
   TARGET_PDB = Final_Project_.pdb
 
-build CMakeFiles/Final_Project_.dir/Dealer.cpp.o: CXX_COMPILER__Final_Project__unscanned_Debug /Users/luismartinez/Desktop/Obeject$ Orianted$ Programming$ /code$ /Final_Project$ /cmake-build-debug/Dealer.cpp || cmake_object_order_depends_target_Final_Project_
+build CMakeFiles/Final_Project_.dir/Dealer.cpp.o: CXX_COMPILER__Final_Project__unscanned_Debug /Users/luismartinez/Desktop/Obeject$ Orianted$ Programming$ /code$ /Final_Project$ /Dealer.cpp || cmake_object_order_depends_target_Final_Project_
   DEP_FILE = CMakeFiles/Final_Project_.dir/Dealer.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/Final_Project_.dir
@@ -73,7 +73,7 @@ build CMakeFiles/Final_Project_.dir/Dealer.cpp.o: CXX_COMPILER__Final_Project__u
   TARGET_COMPILE_PDB = CMakeFiles/Final_Project_.dir/
   TARGET_PDB = Final_Project_.pdb
 
-build CMakeFiles/Final_Project_.dir/Player.cpp.o: CXX_COMPILER__Final_Project__unscanned_Debug /Users/luismartinez/Desktop/Obeject$ Orianted$ Programming$ /code$ /Final_Project$ /cmake-build-debug/Player.cpp || cmake_object_order_depends_target_Final_Project_
+build CMakeFiles/Final_Project_.dir/Player.cpp.o: CXX_COMPILER__Final_Project__unscanned_Debug /Users/luismartinez/Desktop/Obeject$ Orianted$ Programming$ /code$ /Final_Project$ /Player.cpp || cmake_object_order_depends_target_Final_Project_
   DEP_FILE = CMakeFiles/Final_Project_.dir/Player.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/Final_Project_.dir
